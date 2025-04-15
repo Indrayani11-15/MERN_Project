@@ -6,6 +6,8 @@
 
 A full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js). This project includes user authentication, product management, shopping cart functionality, payment integration, and an admin dashboard. Contributions are divided among 4 team members as described below.
 
+Drive link for demo video:https://drive.google.com/file/d/12lQj-AVytbTXo9IfrITYgFXzCSlSJoSa/view?usp=drive_link
+
 ---
 
 ## 📌 Features
