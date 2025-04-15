@@ -48,11 +48,11 @@ A full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js,
 
 
 ### **Member 3: Nitisha Gupta**  
-**Role**: Frontend & Payment Integration  
+**Role**: Payment Integration  
  
 
 ### **Member 4: Ridhima Srivastava**  
-**Role**: Database 
+**Role**: Database and Deployment
  
 
 ---
